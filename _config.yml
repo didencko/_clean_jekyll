@@ -1,0 +1,8 @@
+markdown: kramdown
+exclude: ["node_modules",
+  "gulpfile.js",
+  "package.json",
+  "preview.jpg",
+  "about.md",
+  ".bowerrc",
+  "bower.json"]
